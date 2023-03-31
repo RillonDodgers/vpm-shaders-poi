@@ -1,0 +1,23 @@
+{
+  "name": "Poiyomi Releases",
+  "author": "Poiyomi",
+  "url": "https://Thryrallo.github.io/VRC-Avatar-Performance-Tools/index.json",
+  "packages": {
+    "poi.toon.shaders": {
+      "versions": {
+        "8.1.163": {
+          "name": "poi.toon.shaders",
+          "displayName": "Poiyomi Toon Shader",
+          "version": "8.1.163",
+          "description": "Poiyomi Toon Shader",
+          "gitDependencies": {},
+          "vpmDependencies": {},
+          "hideInEditor": false,
+          "url": "https://github.com/poiyomi/PoiyomiToonShader/releases/download/V8.1.163/poi.Toon.7.3.50.To.8.1.163.unitypackage",
+          "legacyFolders": {},
+          "legacyFiles": {}
+        }
+      }
+    }
+  }
+}
