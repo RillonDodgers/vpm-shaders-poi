@@ -1,7 +1,7 @@
 {
   "name": "Poiyomi Releases",
   "author": "Poiyomi",
-  "url": "https://Thryrallo.github.io/VRC-Avatar-Performance-Tools/index.json",
+  "url": "https://raw.githubusercontent.com/RillonDodgers/vpm-shaders-poi/main/index.json",
   "packages": {
     "poi.toon.shaders": {
       "versions": {
